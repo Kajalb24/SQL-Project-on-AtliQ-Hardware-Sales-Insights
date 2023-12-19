@@ -1,0 +1,1 @@
+# SQL-Project-on-AtliQ-Hardware-Sales-Insights
