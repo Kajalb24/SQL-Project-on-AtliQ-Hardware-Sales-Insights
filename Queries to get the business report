@@ -1,4 +1,5 @@
-#joined tables to get gross price, pre invoice discount pct in different fiscal year.
+##joined tables to get gross price, pre invoice discount pct in different fiscal year.
+
 select  s.date, s.product_code, p.product, p.variant, c.market,
 s.sold_quantity,  g.gross_price, pre.pre_invoice_discount_pct,
 round(g.gross_price*s.sold_quantity,2) as gross_price_total
@@ -14,3 +15,17 @@ join fact_pre_invoice_deductions  pre
 on pre.customer_code=s.customer_code and 
 pre.fiscal_year=s.fiscal_year 
 limit 1000000;
+
+## Query to get report for croma customer in india
+
+select  s.date,
+sum(round(g.gross_price*s.sold_quantity ,2)) as monthly_sales
+from fact_sales_monthly s
+join fact_gross_price g
+on g.product_code= s.product_code and 
+   g.fiscal_year=get_fiscal_year(s.date)
+where customer_code=90002002  
+group by s.date 
+ order by date asc;
+
+
