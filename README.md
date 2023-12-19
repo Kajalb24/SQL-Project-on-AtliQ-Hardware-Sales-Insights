@@ -33,7 +33,7 @@ Here are some of the highlights of what I learned and practiced during this fant
 ## Contact
 If you have any questions, feedback, or would like to collaborate on this project, feel free to contact me:
 
-Email: kajalmbharti@gmail.com
-LinkedIn: https://www.linkedin.com/in/kajal-bharti-973a24287/
+Email: kajalmbharti@gmail.com       
+LinkedIn: https://www.linkedin.com/in/kajal-bharti-973a24287/   
 Happy querying and data analysis!
 
