@@ -1,13 +1,18 @@
 # SQL-Project-on-AtliQ-Hardware-Sales-Insights
-
-Welcome to the AtliQ Hardware Sales Insights project!
+![Screenshot (10)](https://github.com/Kajalb24/SQL-Project-on-AtliQ-Hardware-Sales-Insights/assets/87971828/585dd660-5437-40b2-a40b-620f853dafe3) Welcome to the AtliQ Hardware Sales Insights project!
 This project is a culmination of my SQL learning journey, completed under the guidance of mentors Dhaval Patel and Hemanand at codebasics.io
 
 ## Overview
 AtliQ Hardware is an imaginary company, and this project aims to provide valuable insights into its sales data. The project includes a series of SQL queries, stored procedures, and data analysis to answer various business questions and improve decision-making.
 
 ## Screenshots
+![Screenshot (9)](https://github.com/Kajalb24/SQL-Project-on-AtliQ-Hardware-Sales-Insights/assets/87971828/d7057a09-02fd-422a-842c-5d54c002c507)
 
+![Screenshot (8)](https://github.com/Kajalb24/SQL-Project-on-AtliQ-Hardware-Sales-Insights/assets/87971828/72f9bbb1-0c12-4a63-a7ab-f9fb3981c8f5)
+
+![Screenshot (6)](https://github.com/Kajalb24/SQL-Project-on-AtliQ-Hardware-Sales-Insights/assets/87971828/ea7a1b6e-d715-403d-9098-9ad11f07478d)
+
+![Screenshot (5)](https://github.com/Kajalb24/SQL-Project-on-AtliQ-Hardware-Sales-Insights/assets/87971828/069d2c86-5b36-42e1-a382-acfbb9e6c7c5)
 
 ## Learning journey 
 This project marks the beginning of my SQL learning journey. It allowed me to learn & apply SQL concepts to real-world data analysis and gain practical experience.
@@ -33,7 +38,7 @@ Here are some of the highlights of what I learned and practiced during this fant
 ## Contact
 If you have any questions, feedback, or would like to collaborate on this project, feel free to contact me:
 
-Email: kajalmbharti@gmail.com       
-LinkedIn: https://www.linkedin.com/in/kajal-bharti-973a24287/   
+Email: kajalmbharti@gmail.com      
+LinkedIn: https://www.linkedin.com/in/kajal-bharti-973a24287/        
 Happy querying and data analysis!
 
